@@ -242,7 +242,7 @@ It is like clapping at the same time in a group song, if you are not in sync, it
 | 1/2 | Data Link | Network Access / Data Link |
 | 1/1 | Physical | Network Access / Physical |
 
-### **Encapsulation:**
+**Encapsulation:**
 
 - Email data → Segments → Packets → Frames → Bits
 
