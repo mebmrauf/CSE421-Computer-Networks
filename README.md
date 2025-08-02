@@ -17,3 +17,6 @@ The objective of this course are to
 
 ### ARF
     https://youtube.com/playlist?list=PLJh97ekrGHeKnnsQqBmP1gG4Pki1OLejM
+
+### MSMA
+    https://youtube.com/playlist?list=PLjneqPwSGwd-v2jdsYyzhRPAlFVPqd-Qn
