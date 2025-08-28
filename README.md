@@ -20,3 +20,16 @@ The objective of this course are to
 
 ### MSMA
     https://youtube.com/playlist?list=PLjneqPwSGwd-v2jdsYyzhRPAlFVPqd-Qn
+
+## Lab Recordings
+
+### Lab 01
+
+#### Part 1:
+    https://youtu.be/7q9kzfG24SU?feature=shared
+    
+#### Part 2:
+    https://youtu.be/w9MHKByYrUk?feature=shared
+    
+#### Part 3:
+    https://youtu.be/juKejZUdSiw?feature=shared
