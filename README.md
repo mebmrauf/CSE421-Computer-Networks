@@ -33,3 +33,10 @@ The objective of this course are to
     
 #### Part 3:
     https://youtu.be/juKejZUdSiw?feature=shared
+
+### Lab 02
+    https://www.youtube.com/watch?v=YdBUAd03R2E&list=PLN5v7zf9aJJ3L2CgQx0GUayxb4CsNUu-l&index=4
+    
+    Only NS3:
+    
+    https://youtu.be/izXf53e8o1c?feature=shared
