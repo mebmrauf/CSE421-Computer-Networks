@@ -20,3 +20,82 @@ The objective of this course are to
 
 ### MSMA
     https://youtube.com/playlist?list=PLjneqPwSGwd-v2jdsYyzhRPAlFVPqd-Qn
+
+## Lab Recordings
+
+### Lab 01
+
+#### Part 01
+    https://youtu.be/7q9kzfG24SU?feature=shared
+    
+#### Part 02
+    https://youtu.be/w9MHKByYrUk?feature=shared
+    
+#### Part 03
+    https://youtu.be/juKejZUdSiw?feature=shared
+
+### Lab 02
+
+#### Section 1, 2, 11, 12
+    https://www.youtube.com/watch?v=YdBUAd03R2E&list=PLN5v7zf9aJJ3L2CgQx0GUayxb4CsNUu-l&index=4
+
+#### Only NS3
+    https://youtu.be/izXf53e8o1c?feature=shared
+
+### Lab 03
+
+#### Section 1, 2 (Summer 24)
+    https://youtu.be/vlCxFVMbI7U?feature=shared
+    
+#### Section 6, 7 (Summer 24)
+    https://youtu.be/gYe_NBpGKBA?feature=shared
+
+#### Section 1, 2
+    https://youtu.be/XawIek1BAGQ?feature=shared
+
+#### Section 4, 5
+    https://youtu.be/GYVyv1a7JyY?feature=shared
+
+#### Section 11, 12
+    https://youtu.be/LobuQTi_9CA?feature=shared
+
+#### Section 9, 10
+    https://www.youtube.com/watch?v=NUkf8gWMYZE&list=PLN5v7zf9aJJ3L2CgQx0GUayxb4CsNUu-l&index=3
+
+### Lab 04
+
+#### Section 5 & 6 [Spring 24 - English & Bangla mixed]
+    https://youtu.be/sedGQ9UA36k?feature=shared
+
+#### Section 1, 2
+    https://youtu.be/aZ_Cy4vhwKU?feature=shared
+
+#### Section 4
+    https://youtu.be/yXH5mBmEO8k?feature=shared
+
+#### Section 5
+    https://youtu.be/S3xmpT2fK44?feature=shared
+
+#### Section 9
+    https://www.youtube.com/watch?v=UapaXe7rjQ4&list=PLN5v7zf9aJJ3L2CgQx0GUayxb4CsNUu-l&index=1
+    
+#### Section 10
+    https://www.youtube.com/watch?v=eBqqQZgTEvk&list=PLN5v7zf9aJJ3L2CgQx0GUayxb4CsNUu-l&index=4
+
+#### Section 11, 12
+    https://youtu.be/QmxDIQsgQ34?feature=shared
+
+### Lab 05
+
+#### Section 1, 2
+    https://youtu.be/evfJF7_wRuM?feature=shared
+
+#### Section 4, 5
+    https://youtu.be/IYlAx7qWENM?feature=shared
+    
+#### Section 9, 10
+    https://www.youtube.com/watch?v=mvMLWvCloxg&list=PLN5v7zf9aJJ3L2CgQx0GUayxb4CsNUu-l&index=5
+    
+#### Section 11, 12
+    https://youtu.be/_JQ0-aaEaAc?feature=shared
+
