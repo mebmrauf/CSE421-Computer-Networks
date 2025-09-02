@@ -98,4 +98,3 @@ The objective of this course are to
     
 #### Section 11, 12
     https://youtu.be/_JQ0-aaEaAc?feature=shared
-
